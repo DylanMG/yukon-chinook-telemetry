@@ -1,0 +1,35 @@
+Advanced Telemetry Systems' R4500C Series Receiver-Data Logger
+Csv Data File: C:\Users\gloverl\Desktop\R4500C_8_24_2023_11_53_46.csv
+ Generated: 8/24/2023
+Program: ATSWinRec_R4500C,Version: R4500C_3.0.31.28757,Source:PC
+                                                  
+                                                  
+Date,Ant,Fr,Sig,Code,NumDet,NumMort,DataInd,Data,PrmNum,
+07/01/23 14:56,0,150054,121,12,18,0,NA,NA,4,
+07/01/23 14:56,1,150054,91,12,18,0,NA,NA,4,
+07/01/23 14:56,2,150054,117,12,18,0,NA,NA,4,
+07/01/23 15:00,0,150054,106,12,126,0,NA,NA,4,
+07/01/23 15:00,1,150054,91,12,127,0,NA,NA,4,
+07/01/23 15:01,2,150054,107,12,124,0,NA,NA,4,
+07/02/23 9:01,0,150054,123,12,188,0,NA,NA,4,
+07/02/23 9:01,1,150054,93,12,161,0,NA,NA,4,
+07/02/23 9:01,2,150054,125,12,192,0,NA,NA,4,
+08/04/23 17:14,2,149572,81,98,15,0,NA,NA,4,
+08/04/23 17:15,0,149572,73,98,5,0,NA,NA,4,
+08/04/23 17:23,0,149572,74,98,9,0,NA,NA,4,
+08/04/23 17:23,2,149572,76,98,10,0,NA,NA,4,
+08/05/23 14:07,0,149572,78,98,7,0,NA,NA,4,
+08/05/23 14:07,2,149572,79,98,10,0,NA,NA,4,
+08/10/23 1:05,0,149572,70,98,3,0,NA,NA,4,
+08/10/23 1:07,2,149572,65,98,3,0,NA,NA,4,
+08/10/23 1:13,0,149572,70,98,7,0,NA,NA,4,
+
+***PrmNum Key***
+
+PrmNum,Block_Type,Scan_Type,TimeOut,Aerial_TimeOut,Scan,Tables,GPS,StoreRate,Antennas,ExtData,Reference_Frequency,
+0, Stationary ,Coded Tx,03,NA,010,1, NA,10 ,2 , No, NA,
+1, Stationary ,Coded Tx,03,NA,010,1, NA,10 ,2 , No, NA,
+2, Stationary ,Coded Tx,03,NA,010,4, NA,10 ,2 , No, NA,
+3, Stationary ,Coded Tx,03,NA,010,4, NA,10 ,2 , No, NA,
+4, Stationary ,Coded Tx,03,NA,010,1, NA,10 ,2 , No, Freq: 150054, Store Rate: 60 ,
+5, Stationary ,Coded Tx,03,NA,010,1, NA,10 ,2 , No, Freq: 150054, Store Rate: 60 ,
